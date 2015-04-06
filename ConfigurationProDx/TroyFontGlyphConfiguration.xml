@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TroyFontGlyphMapList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FontGlyphMapList>
+    <TroyFontGlyphMap>
+      <FontName>Arial</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Arial Bold</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Times New Roman</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Verdana</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Verdana Bold</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Verdana Bold It</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+    <TroyFontGlyphMap>
+      <FontName>Trebuchet MS</FontName>
+      <FontGlyphFileName>StandardGlyphMap.csv</FontGlyphFileName>
+    </TroyFontGlyphMap>
+  </FontGlyphMapList>
+</TroyFontGlyphMapList>

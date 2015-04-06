@@ -1,0 +1,85 @@
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe.config
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\Troy.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Debug\Troy.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe.config
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.dll
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\MyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\MyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\MyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TroyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\MyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\MyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TroyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\MyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\Troy.PantographPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TroyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\TROYmarkPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\PrinterLib.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Debug\PrinterLib.pdb

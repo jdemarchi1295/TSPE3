@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PantographConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PantographConfigurations>
+    <CustomConfiguration>
+      <PageOrientation>poPortrait</PageOrientation>
+      <PageType>ptLetter</PageType>
+      <UseDefaultInclusionForPaperSize>true</UseDefaultInclusionForPaperSize>
+      <InclusionRegion></InclusionRegion>
+      <ExclusionRegions />
+      <PantographConfiguration>281</PantographConfiguration>
+      <PantographFont />
+      <PantographTextOffsetX>-1</PantographTextOffsetX>
+      <PantographTextOffsetY>-1</PantographTextOffsetY>
+      <PantographCellWidth>-1</PantographCellWidth>
+      <PantographCellHeight>-1</PantographCellHeight>
+      <PantographXPlus>-1</PantographXPlus>
+      <PantographXMinus>-1</PantographXMinus>
+      <PantographYPlus>-1</PantographYPlus>
+      <PantographYMinus>-1</PantographYMinus>
+      <CellList>
+        <PantographCellDescriptorType>
+          <pidx>1</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+        <PantographCellDescriptorType>
+          <pidx>2</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+      </CellList>
+      <InterferencePatternId>20</InterferencePatternId>
+      <InterferenceHStep>-1</InterferenceHStep>
+      <InterferenceHStart>-1</InterferenceHStart>
+      <InterferenceHStop>-1</InterferenceHStop>
+      <InterferenceVStep>-1</InterferenceVStep>
+      <InterferenceVStart>-1</InterferenceVStart>
+      <InterferenceVStop>-1</InterferenceVStop>
+      <InterferenceFontSelection />
+      <InterferenceString />
+      <InterferenceFontFilename />
+      <SignatureLineOffsetX>600</SignatureLineOffsetX>
+      <SignatureLineOffsetY>1800</SignatureLineOffsetY>
+      <SignatureLineLength>1500</SignatureLineLength>
+      <SignatureLineString />
+      <BorderString>THIS IS AN ORIGINAL DOCUMENT </BorderString>
+      <WarningBoxString />
+      <DensityPattern1>73</DensityPattern1>
+      <DensityPattern2>22</DensityPattern2>
+      <DensityPattern3>20</DensityPattern3>
+      <DensityPattern4>74</DensityPattern4>
+      <DensityPattern5>174</DensityPattern5>
+      <DensityPattern6>30</DensityPattern6>
+      <DensityPattern7>78</DensityPattern7>
+      <DensityPattern8>28</DensityPattern8>
+      <DensityPattern9>78</DensityPattern9>
+      <TROYmarkOn>true</TROYmarkOn>
+      <IncludeMp>true</IncludeMp>
+    </CustomConfiguration>
+    <CustomConfiguration>
+      <PageOrientation>poPortrait</PageOrientation>
+      <PageType>ptLetter</PageType>
+      <UseDefaultInclusionForPaperSize>true</UseDefaultInclusionForPaperSize>
+      <InclusionRegion></InclusionRegion>
+      <ExclusionRegions />
+      <PantographConfiguration>281</PantographConfiguration>
+      <PantographFont />
+      <PantographTextOffsetX>-1</PantographTextOffsetX>
+      <PantographTextOffsetY>-1</PantographTextOffsetY>
+      <PantographCellWidth>-1</PantographCellWidth>
+      <PantographCellHeight>-1</PantographCellHeight>
+      <PantographXPlus>-1</PantographXPlus>
+      <PantographXMinus>-1</PantographXMinus>
+      <PantographYPlus>-1</PantographYPlus>
+      <PantographYMinus>-1</PantographYMinus>
+      <CellList>
+        <PantographCellDescriptorType>
+          <pidx>1</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+        <PantographCellDescriptorType>
+          <pidx>2</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+      </CellList>
+      <InterferencePatternId>1</InterferencePatternId>
+      <InterferenceHStep>-1</InterferenceHStep>
+      <InterferenceHStart>-1</InterferenceHStart>
+      <InterferenceHStop>-1</InterferenceHStop>
+      <InterferenceVStep>-1</InterferenceVStep>
+      <InterferenceVStart>-1</InterferenceVStart>
+      <InterferenceVStop>-1</InterferenceVStop>
+      <InterferenceFontSelection />
+      <InterferenceString />
+      <InterferenceFontFilename />
+      <SignatureLineOffsetX>-1</SignatureLineOffsetX>
+      <SignatureLineOffsetY>-1</SignatureLineOffsetY>
+      <SignatureLineLength>-1</SignatureLineLength>
+      <SignatureLineString />
+      <BorderString>THIS IS A ORIGINAL DOCUMENT</BorderString>
+      <WarningBoxString />
+      <DensityPattern1>73</DensityPattern1>
+      <DensityPattern2>22</DensityPattern2>
+      <DensityPattern3>20</DensityPattern3>
+      <DensityPattern4>74</DensityPattern4>
+      <DensityPattern5>174</DensityPattern5>
+      <DensityPattern6>30</DensityPattern6>
+      <DensityPattern7>78</DensityPattern7>
+      <DensityPattern8>28</DensityPattern8>
+      <DensityPattern9>78</DensityPattern9>
+      <TROYmarkOn>true</TROYmarkOn>
+      <IncludeMp>true</IncludeMp>
+    </CustomConfiguration>
+    <CustomConfiguration>
+      <PageOrientation>poPortrait</PageOrientation>
+      <PageType>ptLetter</PageType>
+      <UseDefaultInclusionForPaperSize>true</UseDefaultInclusionForPaperSize>
+      <InclusionRegion></InclusionRegion>
+      <ExclusionRegions />
+      <PantographConfiguration>281</PantographConfiguration>
+      <PantographFont />
+      <PantographTextOffsetX>-1</PantographTextOffsetX>
+      <PantographTextOffsetY>-1</PantographTextOffsetY>
+      <PantographCellWidth>-1</PantographCellWidth>
+      <PantographCellHeight>-1</PantographCellHeight>
+      <PantographXPlus>-1</PantographXPlus>
+      <PantographXMinus>-1</PantographXMinus>
+      <PantographYPlus>-1</PantographYPlus>
+      <PantographYMinus>-1</PantographYMinus>
+      <CellList>
+        <PantographCellDescriptorType>
+          <pidx>1</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+        <PantographCellDescriptorType>
+          <pidx>2</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+      </CellList>
+      <InterferencePatternId>1</InterferencePatternId>
+      <InterferenceHStep>-1</InterferenceHStep>
+      <InterferenceHStart>-1</InterferenceHStart>
+      <InterferenceHStop>-1</InterferenceHStop>
+      <InterferenceVStep>-1</InterferenceVStep>
+      <InterferenceVStart>-1</InterferenceVStart>
+      <InterferenceVStop>-1</InterferenceVStop>
+      <InterferenceFontSelection />
+      <InterferenceString />
+      <InterferenceFontFilename />
+      <SignatureLineOffsetX>-1</SignatureLineOffsetX>
+      <SignatureLineOffsetY>-1</SignatureLineOffsetY>
+      <SignatureLineLength>-1</SignatureLineLength>
+      <SignatureLineString />
+      <BorderString>THIS IS A ORIGINAL DOCUMENT</BorderString>
+      <WarningBoxString />
+      <DensityPattern1>73</DensityPattern1>
+      <DensityPattern2>22</DensityPattern2>
+      <DensityPattern3>20</DensityPattern3>
+      <DensityPattern4>74</DensityPattern4>
+      <DensityPattern5>174</DensityPattern5>
+      <DensityPattern6>30</DensityPattern6>
+      <DensityPattern7>78</DensityPattern7>
+      <DensityPattern8>28</DensityPattern8>
+      <DensityPattern9>78</DensityPattern9>
+      <TROYmarkOn>true</TROYmarkOn>
+      <IncludeMp>true</IncludeMp>
+    </CustomConfiguration>
+    <CustomConfiguration>
+      <PageOrientation>poPortrait</PageOrientation>
+      <PageType>ptLetter</PageType>
+      <UseDefaultInclusionForPaperSize>true</UseDefaultInclusionForPaperSize>
+      <InclusionRegion></InclusionRegion>
+      <ExclusionRegions />
+      <PantographConfiguration>281</PantographConfiguration>
+      <PantographFont />
+      <PantographTextOffsetX>-1</PantographTextOffsetX>
+      <PantographTextOffsetY>-1</PantographTextOffsetY>
+      <PantographCellWidth>-1</PantographCellWidth>
+      <PantographCellHeight>-1</PantographCellHeight>
+      <PantographXPlus>-1</PantographXPlus>
+      <PantographXMinus>-1</PantographXMinus>
+      <PantographYPlus>-1</PantographYPlus>
+      <PantographYMinus>-1</PantographYMinus>
+      <CellList>
+        <PantographCellDescriptorType>
+          <pidx>1</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+        <PantographCellDescriptorType>
+          <pidx>2</pidx>
+          <msg>COPY</msg>
+        </PantographCellDescriptorType>
+      </CellList>
+      <InterferencePatternId>1</InterferencePatternId>
+      <InterferenceHStep>-1</InterferenceHStep>
+      <InterferenceHStart>-1</InterferenceHStart>
+      <InterferenceHStop>-1</InterferenceHStop>
+      <InterferenceVStep>-1</InterferenceVStep>
+      <InterferenceVStart>-1</InterferenceVStart>
+      <InterferenceVStop>-1</InterferenceVStop>
+      <InterferenceFontSelection />
+      <InterferenceString />
+      <InterferenceFontFilename />
+      <SignatureLineOffsetX>-1</SignatureLineOffsetX>
+      <SignatureLineOffsetY>-1</SignatureLineOffsetY>
+      <SignatureLineLength>-1</SignatureLineLength>
+      <SignatureLineString />
+      <BorderString>THIS IS A ORIGINAL DOCUMENT</BorderString>
+      <WarningBoxString />
+      <DensityPattern1>73</DensityPattern1>
+      <DensityPattern2>22</DensityPattern2>
+      <DensityPattern3>20</DensityPattern3>
+      <DensityPattern4>74</DensityPattern4>
+      <DensityPattern5>174</DensityPattern5>
+      <DensityPattern6>30</DensityPattern6>
+      <DensityPattern7>78</DensityPattern7>
+      <DensityPattern8>28</DensityPattern8>
+      <DensityPattern9>78</DensityPattern9>
+      <TROYmarkOn>true</TROYmarkOn>
+      <IncludeMp>true</IncludeMp>
+    </CustomConfiguration>
+  </PantographConfigurations>
+</PantographConfiguration>

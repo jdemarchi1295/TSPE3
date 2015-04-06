@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroyPortMonitorService", "TroyPortMonitorService.csproj", "{ABDFE926-D097-413A-B294-6443E6AF03CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TroySecurePortMonitorSetupBasic", "..\TroySecurePortMonitorSetupBasic\TroySecurePortMonitorSetupForRx.vdproj", "{C5580899-4E54-4337-AD49-BCD369D9E59C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TroySecurePortMonitorSetupInternational", "..\TroySecurePortMonitorSetupInternational\TroySecurePrintEnterpriseInternational.vdproj", "{5FCECF08-A24B-46A0-B377-AF39C00C561A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TroySecurePortMonitorSetup64Bit", "..\TroySecurePortMonitorSetup64Bit\TroySecurePortMonitorSetupForRx64Bit.vdproj", "{2690CFFF-0114-4014-8549-9E591277A296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroySecurePortMonitorUserInterface", "..\TroySecurePortMonitorUserInterface\TroySecurePortMonitorUserInterface\TroySecurePortMonitorUserInterface.csproj", "{BF671448-A1ED-49E7-A033-7A3B143EE2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddSecurePortUtility", "..\AddSecurePortUtility\AddSecurePortUtility\AddSecurePortUtility.csproj", "{ECFEBBF8-CCA9-43E8-9C44-A117ACF3738E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomInstallFunctions", "..\CustomInstallFunctions\CustomInstallFunctions\CustomInstallFunctions.csproj", "{EA3BABE9-4CC4-49A5-8B02-AA9559D3D577}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TroySecurePortMonitorSetupInternational64Bit", "..\TroySecurePortMonitorSetupInternational64Bit\TroySecurePrintEnterpriseSetupInternational64Bit.vdproj", "{6B0AD9C5-60A7-4C6C-BD88-1F75191628E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDFE926-D097-413A-B294-6443E6AF03CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDFE926-D097-413A-B294-6443E6AF03CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDFE926-D097-413A-B294-6443E6AF03CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDFE926-D097-413A-B294-6443E6AF03CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5580899-4E54-4337-AD49-BCD369D9E59C}.Debug|Any CPU.ActiveCfg = Debug
+		{C5580899-4E54-4337-AD49-BCD369D9E59C}.Release|Any CPU.ActiveCfg = Release
+		{C5580899-4E54-4337-AD49-BCD369D9E59C}.Release|Any CPU.Build.0 = Release
+		{5FCECF08-A24B-46A0-B377-AF39C00C561A}.Debug|Any CPU.ActiveCfg = Debug
+		{5FCECF08-A24B-46A0-B377-AF39C00C561A}.Release|Any CPU.ActiveCfg = Release
+		{5FCECF08-A24B-46A0-B377-AF39C00C561A}.Release|Any CPU.Build.0 = Release
+		{2690CFFF-0114-4014-8549-9E591277A296}.Debug|Any CPU.ActiveCfg = Debug
+		{2690CFFF-0114-4014-8549-9E591277A296}.Release|Any CPU.ActiveCfg = Release
+		{2690CFFF-0114-4014-8549-9E591277A296}.Release|Any CPU.Build.0 = Release
+		{BF671448-A1ED-49E7-A033-7A3B143EE2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF671448-A1ED-49E7-A033-7A3B143EE2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF671448-A1ED-49E7-A033-7A3B143EE2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF671448-A1ED-49E7-A033-7A3B143EE2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFEBBF8-CCA9-43E8-9C44-A117ACF3738E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFEBBF8-CCA9-43E8-9C44-A117ACF3738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFEBBF8-CCA9-43E8-9C44-A117ACF3738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEBBF8-CCA9-43E8-9C44-A117ACF3738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3BABE9-4CC4-49A5-8B02-AA9559D3D577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3BABE9-4CC4-49A5-8B02-AA9559D3D577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3BABE9-4CC4-49A5-8B02-AA9559D3D577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3BABE9-4CC4-49A5-8B02-AA9559D3D577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0AD9C5-60A7-4C6C-BD88-1F75191628E5}.Debug|Any CPU.ActiveCfg = Debug
+		{6B0AD9C5-60A7-4C6C-BD88-1F75191628E5}.Debug|Any CPU.Build.0 = Debug
+		{6B0AD9C5-60A7-4C6C-BD88-1F75191628E5}.Release|Any CPU.ActiveCfg = Release
+		{6B0AD9C5-60A7-4C6C-BD88-1F75191628E5}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

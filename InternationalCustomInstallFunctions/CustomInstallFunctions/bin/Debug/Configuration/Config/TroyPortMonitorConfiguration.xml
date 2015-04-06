@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TroyPortMonitorConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileReadDelay_ms>2000</FileReadDelay_ms>
+  <FileReadAttempts>60</FileReadAttempts>
+  <QueueDelay_ms>1000</QueueDelay_ms>
+  <MaxThreads>10</MaxThreads>
+  <FileExtension>prn</FileExtension>
+  <FilePrefix>tpm</FilePrefix>
+  <EndOfPageString>/e*p6400Y/f</EndOfPageString>
+  <InsertPointPclString>/e*p0x0Y</InsertPointPclString>
+  <DebugBackupFilesPath />
+  <ErrorLogPath />
+  <LogErrorsToEventLog>true</LogErrorsToEventLog>
+  <EnableMessageBoxes>true</EnableMessageBoxes>
+  <DefaultPrinter></DefaultPrinter>
+  <TroyMarkEnabled>true</TroyMarkEnabled>
+  <DefaultTroyMarkPattern>Light</DefaultTroyMarkPattern>
+  <DefaultTroyMarkInclusion>0,0,4800,6400</DefaultTroyMarkInclusion>
+  <DefaultTroyMarkExclusion />
+  <DefaultTroyMarkSpacing>300</DefaultTroyMarkSpacing>
+  <TroyMarkStaticText>ST. CLOUD HOSPITAL PRESCRIPTION ORIGINAL</TroyMarkStaticText>
+  <TroyMarkCharsPerLine>80</TroyMarkCharsPerLine>
+  <TroyMarkOnBack>false</TroyMarkOnBack>
+  <PrintPantographProfileList>1</PrintPantographProfileList>
+  <UsePrinterMap>false</UsePrinterMap>
+  <FontConfigurationFile />
+  <AccountUserName />
+  <AccountPassword />
+  <DefaultPaperTrayMapping>false</DefaultPaperTrayMapping>
+  <EnableMicrMode>false</EnableMicrMode>
+  <AutoPageRotate>false</AutoPageRotate>
+  <PrinterPin />
+  <MicrPin />
+  <TroyJobName />
+  <TroyJobPin />
+  <HpJobPassword />
+  <AlternateEscCharacter />
+  <EnablePantograph />
+  <PantographInclusion />
+  <PantographExclusion />
+  <EnableDuplex>-1</EnableDuplex>
+  <TroyMarkPjlDataPresent />
+  <TroyMarkPjlInsertPage />
+  <PantographMicroPrintSize>3</PantographMicroPrintSize>
+  <PantographCellArrangement>1</PantographCellArrangement>
+  <PantographWarningBox>1</PantographWarningBox>
+  <PantographSigMicroPrint>1</PantographSigMicroPrint>
+  <UseTroyFonts>false</UseTroyFonts>
+  <UseConfigurableDataCapture>true</UseConfigurableDataCapture>
+  <PassThroughEnabled>false</PassThroughEnabled>
+  <MaxPassThroughSizeInKb>0</MaxPassThroughSizeInKb>
+  <PassThroughStringMatchAllFlag>true</PassThroughStringMatchAllFlag>
+  <PassThroughList />
+  <PassThroughList2 />
+  <UseSecureRxSetup>false</UseSecureRxSetup>
+  <SecureRxFonts />
+  <PlainTextData>false</PlainTextData>
+  <SaveFontDataAsTokens>false</SaveFontDataAsTokens>
+  <PatientNameTag />
+  <PatientNameEndList />
+  <DrugNameTag />
+  <DrugNameEndList />
+  <RefillsTag />
+  <RefillsTagEndList />
+  <CustomTag />
+  <CustomTagEndList />
+  <PrinterNameTag />
+  <PjlTriggerString />
+  <PjlTriggerString2 />
+  <EncryptionPassword><![CDATA[]]></EncryptionPassword>
+</TroyPortMonitorConfiguration>

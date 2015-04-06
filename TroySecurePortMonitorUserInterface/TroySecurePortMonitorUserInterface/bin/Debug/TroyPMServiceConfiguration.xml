@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TroyPortMonitorServiceConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfThreads>100</NumberOfThreads>
+  <PrintJobsOnRestart>false</PrintJobsOnRestart>
+  <InsertPjlHeader>false</InsertPjlHeader>
+  <PrintSpoolerName>Print Spooler</PrintSpoolerName>
+  <UserInterface>
+    <PrinterConfigurationFile />
+    <MaxNumberOfInteferencPatterns>0</MaxNumberOfInteferencPatterns>
+    <MaxMicroPrintBorderTextSize>0</MaxMicroPrintBorderTextSize>
+    <MaxSigLineTextSize>0</MaxSigLineTextSize>
+    <MaxWarningBoxSize>0</MaxWarningBoxSize>
+    <MaxIntPatternMsgSize>0</MaxIntPatternMsgSize>
+    <MaxCellMsgSize>0</MaxCellMsgSize>
+    <InterferencePatternFileName />
+    <UseAsSecurePrint>true</UseAsSecurePrint>
+    <TroyportVersion>1</TroyportVersion>
+    <ShowTroyMarkTab>true</ShowTroyMarkTab>
+    <ShowPantographTab>true</ShowPantographTab>
+    <ShowSecurityTab>false</ShowSecurityTab>
+    <ShowEncryptionTab>false</ShowEncryptionTab>
+    <ShowErrorTab>true</ShowErrorTab>
+    <ShowConfigureButton>false</ShowConfigureButton>
+	<ProductTitle>TROY Secure Print Enterprise</ProductTitle>
+  </UserInterface>
+  <PortList>
+    <TroySecurePort>
+      <PortName>Troy Secure Port 1</PortName>
+      <PortMonitorName>TROYPORT1:</PortMonitorName>
+      <ConfigurationPath>default</ConfigurationPath>
+    </TroySecurePort>
+  </PortList>
+</TroyPortMonitorServiceConfiguration>

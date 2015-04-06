@@ -1,0 +1,11 @@
+SourceDir = C:\Users\jdemarchi.TROYSYS\Documents\TSPE Lite install\
+Startup Path = C:\Program Files\Troy Group\Port Monitor\
+--- Copying Configuration and Data Files  ---
+Found TSPE Files folder.
+Found Configuration Files folder
+   No Port Monitor Folder to migrate.  C:\Users\jdemarchi.TROYSYS\Documents\TSPE Lite install\Port Monitor folder not found (Note: Case Sensitive)
+--- Copying Configuration and Data Files COMPLETE  ---
+Restarting the Windows Print Spooler....
+Windows Print Spooler restarted
+Restarting the TROY SecurePort Monitor Service....
+Troy Port Monitor Service restarted

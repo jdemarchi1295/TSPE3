@@ -1,0 +1,4 @@
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\CustomInstallFunctions\CustomInstallFunctions\bin\x64\Release\CustomInstallFunctions.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\CustomInstallFunctions\CustomInstallFunctions\bin\x64\Release\CustomInstallFunctions.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\CustomInstallFunctions\CustomInstallFunctions\obj\x64\Release\CustomInstallFunctions.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\CustomInstallFunctions\CustomInstallFunctions\obj\x64\Release\CustomInstallFunctions.pdb

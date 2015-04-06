@@ -1,0 +1,103 @@
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CheckOut\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Lifebridge\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Lifebridge\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Lifebridge\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Lifebridge\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Cerner\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Cerner\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Cerner\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Secure Rx\Cerner\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Cerner\Port Monitor\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Cerner\Port Monitor\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Cerner\Port Monitor\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Custom TSM\Mayo Cerner\Port Monitor\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\TroyPortMonitorService\bin\Release\Troy.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\bin\Release\Troy.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\HP Certification Version\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\Version 1.0.1\HP Certification\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\Version 1.0.1\HP Certification\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\Version 1.0.1\HP Certification\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\MyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\PrinterLib.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\Troy.PantographPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TroyLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\MyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\Troy.PantographPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TroyLicensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\PrinterLib.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb

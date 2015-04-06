@@ -1,0 +1,10 @@
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CustomInstallFunctions\CustomInstallFunctions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CustomInstallFunctions\CustomInstallFunctions\bin\Debug\CustomInstallFunctions.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CustomInstallFunctions\CustomInstallFunctions\bin\Debug\CustomInstallFunctions.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CustomInstallFunctions\CustomInstallFunctions\obj\Debug\CustomInstallFunctions.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CustomInstallFunctions\CustomInstallFunctions\obj\Debug\CustomInstallFunctions.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\InternationalCustomInstallFunctions\CustomInstallFunctions\obj\Debug\CustomInstallFunctions.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\InternationalCustomInstallFunctions\CustomInstallFunctions\obj\Debug\CustomInstallFunctions.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\InternationalCustomInstallFunctions\CustomInstallFunctions\bin\Debug\CustomInstallFunctions.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\InternationalCustomInstallFunctions\CustomInstallFunctions\bin\Debug\CustomInstallFunctions.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\InternationalCustomInstallFunctions\CustomInstallFunctions\obj\Debug\ResolveAssemblyReference.cache
