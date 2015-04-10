@@ -1,0 +1,5 @@
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\CustomInstallFunctions\bin\x64\Debug\CustomInstallFunctions.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\CustomInstallFunctions\bin\x64\Debug\CustomInstallFunctions.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\CustomInstallFunctions\bin\x64\Debug\CustomInstallFunctions.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\CustomInstallFunctions\obj\x64\Debug\CustomInstallFunctions.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\CustomInstallFunctions\obj\x64\Debug\CustomInstallFunctions.pdb

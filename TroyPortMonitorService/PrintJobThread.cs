@@ -6,8 +6,9 @@ using System.Text;
 using System.Threading;
 using PantographPclBuilder;
 using Troy.PortMonitor.Core.XmlConfiguration;
+using Troy.TSPE3.Licensing;
 using Troy.TROYmarkPclBuilder;
-using Troy;
+using Troy.Licensing.Client.Classes;
 
 namespace TroyPortMonitorService
 {
@@ -248,11 +249,9 @@ namespace TroyPortMonitorService
                 Microsoft.Win32.RegistryKey pmKey = registryKey.OpenSubKey(REGISTRY_PATH_LOCATION, false);
                 serviceConfigFilePath = pmKey.GetValue("MainConfigurationPath").ToString();
 
-                /* JLD - new licensing */
-                string message;
+                /* JLD - crypto licensing */
                 LicenseQueryResult lqr;
-
-                //if (Licensing.ValidLicense(serviceConfigFilePath, true, out lqr, out message) && lqr.IsTrial)
+                if (Licensing.IsValidLicense(out lqr) && lqr.CurrentLicenseStatus == LicenseStatus.Trial)
                 {
                     InsertedDemoTroymark = true;
                 }
@@ -479,7 +478,7 @@ namespace TroyPortMonitorService
                 }
 
                 //Print the new file
-                if (!PrintTheJob())
+                if (!PrintTheJob(out lqr))
                 {
                     //Errors will be logged in the function
                     PortMonException = new PortMonCustomException("Error in PrintTheJob()", false, EventLogEntryType.Error, true);
@@ -1238,10 +1237,6 @@ namespace TroyPortMonitorService
             {
                 if (dcc.DataCapture == DataCaptureType.PjlHeader)
                 {
-                    
-                    
-                    //*****************************************************************************************************
-                    
                     foreach (DataTagsType dtt in dcc.DataTags)
                     {
                         if (dtt.LeadingTag != "")
@@ -3109,20 +3104,17 @@ namespace TroyPortMonitorService
             }
         }
 
-        private bool PrintTheJob()
+        private bool PrintTheJob(out LicenseQueryResult lqr)
         {
             try
             {
-                string message;
-                /************* TEMP ******************************
-                if (!Licensing.IsPrinterLicensed(serviceConfigFilePath, printToPrinterName, out message))
-                {
-                    pmLogging.LogError("Max Printer Licenses reached.  Can not print to printer: " + printToPrinterName, EventLogEntryType.Warning, false);
-                    return false;
-                }
-                *****************************************************/
                 if (printerFileName.Length > 0)
                 {
+                    if (!Licensing.IsPrinterLicensed(printToPrinterName, out lqr))
+                    {
+                        pmLogging.LogError("Max Printer Licenses reached.  Can not print to printer: " + printToPrinterName, EventLogEntryType.Warning, false);
+                        return false;
+                    }
                     if (!SendJobToPrinter(printToPrinterName, printerFileName, "TROY Port Monitor Print"))
                     {
                         pmLogging.LogError("Print failed.  Filename: " + printerFileName + " Printer Name: " + printToPrinterName, EventLogEntryType.Error, false);
@@ -3139,12 +3131,14 @@ namespace TroyPortMonitorService
             }
             catch (PortMonCustomException pe)
             {
+                lqr = null;
                 pmLogging.LogError("Job was not printed.  File: " + printFileName + " Error: " + pe.Message, EventLogEntryType.Error, true);
                 return false;
 
             }
             catch (Exception ex)
             {
+                lqr = null;
                 pmLogging.LogError("Job was not printed.  File: " + printFileName + " Error: " + ex.Message, EventLogEntryType.Error, true);
                 return false;
             }

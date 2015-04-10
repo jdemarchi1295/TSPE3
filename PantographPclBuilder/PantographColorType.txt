@@ -1,0 +1,7 @@
+		PCT(pgBlack,0)
+		PCT(pgRed,1)
+		PCT(pgGreen,2)
+		PCT(pgUV,3)
+		PCT(pgBlue,4)
+		PCT(pgMagenta,5)
+		PCT(pgCyan,6)

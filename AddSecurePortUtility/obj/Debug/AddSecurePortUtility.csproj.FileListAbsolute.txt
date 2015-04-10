@@ -1,0 +1,98 @@
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Documents and Settings\kkocher\Desktop\CURRENT\CurrentRelease\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.Core.dll
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Documents and Settings\kkocher\Desktop\Delta Downs\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.Core.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\Administrator\Desktop\Current\TSPE\CURRENT VERSION\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\Administrator\Desktop\Current\TSPE\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3Kiln\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb

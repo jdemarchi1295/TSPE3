@@ -1,0 +1,12 @@
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\bin\x64\Debug\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\bin\x64\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\bin\x64\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\bin\x64\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\bin\x64\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\AddSecurePortUtility\obj\x64\Debug\AddSecurePortUtility.pdb

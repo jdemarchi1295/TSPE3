@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TroyPortMonitorService</RootNamespace>
     <AssemblyName>TroyPortMonitorService</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <SccProjectName>
@@ -26,7 +26,8 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <PublishUrl>http://localhost/TroyPortMonitorService/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
@@ -108,6 +109,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml" />
+    <Reference Include="Troy.Licensing.Client">
+      <HintPath>..\Resources\Troy.Licensing.Client.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PortMonLogging.cs" />
@@ -173,10 +177,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\PantographCreatorCPP\PantographPclBuilder\PantographPclBuilder.vcxproj">
-      <Project>{9367b43c-9a2a-4dff-9b52-aca559917810}</Project>
-      <Name>PantographPclBuilder</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\TSPE\TroyMarkPclBuilder\TroyMarkPclBuilder.csproj">
       <Project>{f04aaff5-642d-429d-9592-6ec42996fb5f}</Project>
       <Name>TroyMarkPclBuilder</Name>
@@ -184,6 +184,14 @@
     <ProjectReference Include="..\..\TSPE\TroyPortMonitor.Core\Troy.PortMonitor.Core.csproj">
       <Project>{AFD60FF2-6F0A-4CF6-B8A9-E9956197B099}</Project>
       <Name>Troy.PortMonitor.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PantographPclBuilder\PantographPclBuilder.vcxproj">
+      <Project>{9367b43c-9a2a-4dff-9b52-aca559917810}</Project>
+      <Name>PantographPclBuilder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TroyLicensing\Troy.TSPE3.Licensing.csproj">
+      <Project>{0dc6d1b6-0a61-47f3-beee-c5a141987986}</Project>
+      <Name>Troy.TSPE3.Licensing</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

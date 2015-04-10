@@ -1,0 +1,119 @@
+#include <vector>
+#include "CustomConfiguration.h"
+using namespace std;
+
+	void CustomConfigurationInternal::InitializeInstanceFields()
+	{
+		PageSize = ptLetter;
+		PageWidth = 0;
+		PageHeight = 0;
+		PageOrientation = poPortrait;
+		PantographColor = 0;
+		PantographConfig = 345;
+		PantographFontSelectString = "";
+		PantoTextOffsetX = 24;
+		PantoTextOffsetY = 64;
+		PantoCellWidth = 1590;
+		PantoCellHeight = 476;
+		PantographXPlus = 300;
+		PantographXMinus = 300;
+		PantographYPlus = 300;
+		PantographYMinus = 300;
+		BorderString = "";
+		SigOffsetX = 0;
+		SigOffsetY = 0;
+		SigLength = 0;
+		SigString = "";
+		CustomInterfHStep = 300;
+		CustomInterfHStart = 0;
+		CustomInterfHStop = 0;
+		CustomInterfVStep = 300;
+		CustomInterfVStart = 0;
+		CustomInterfVStop = 0;
+		CustomInterfFontSel = "";
+		CustomInterfString = "";
+		InterferenceStr = "E\nF";
+		CustomWarningString = "";
+		WarningBoxSize = 0;
+		PrintMp = true;
+		fontPath = "";
+		unsigned char temp_BgWeight[128] = {0, 0, 0, 0, 0, 29, 0, 43, 23, 16, 21, 30, 20, 0, 22, 0, 0, 0, 0, 0, 36, 0, 41, 0, 42, 26, 34, 15, 0, 40, 0, 44, 0, 0, 0, 0, 27, 0, 28, 0, 38, 24, 39, 25, 0, 14, 0, 17, 0, 0, 0, 0, 0, 33, 0, 31, 19, 45, 18, 37, 32, 0, 35, 0, 0, 0, 0, 0, 0, 29, 0, 43, 23, 16, 21, 30, 20, 0, 22, 0, 0, 0, 0, 0, 36, 0, 41, 0, 42, 26, 34, 15, 0, 40, 0, 45, 0, 0, 0, 0, 27, 0, 28, 0, 38, 24, 39, 25, 0, 14, 0, 17, 0, 0, 0, 0, 0, 33, 0, 31, 19, 44, 18, 37, 32, 0, 35, 0};
+		for (unsigned int element = 0; element < sizeof(temp_BgWeight) / sizeof(temp_BgWeight[0]); element++)
+			BgWeight[element] = temp_BgWeight[element];
+		DarknessFactor = 1;
+		int temp_DarknessFactorMap[3] = {0, 0, 11};
+		for (unsigned int element = 0; element < sizeof(temp_DarknessFactorMap) / sizeof(temp_DarknessFactorMap[0]); element++)
+			DarknessFactorMap[element] = temp_DarknessFactorMap[element];
+		//bool temp_pat_loaded[22] = {false,false,false,false,false,false,false,false,false,false,false, false,false,false,false,false,false,false,false,false,false,false};
+		for (unsigned int element = 0; element < sizeof(pat_loaded) / sizeof(pat_loaded[0]); element++)
+			pat_loaded[element] = false;
+		Panto2BckGrdLoaded = false;
+		Panto2FrGrdLoaded = false;
+		incl_defined = false;
+		troymark_on = false;
+		include_dynamic_msg = true;
+		include_georgia_seal = false;
+		georgia_x_loc = 0;
+		georgia_y_loc = 0;
+		georgia_seal_font_file = "SealFont.sfp";
+		georgia_seal_string = "ab";
+		mp5Font = "micro5.sfp";
+		mp6Font = "micro6.sfp";
+		interfFont = "interf.sfp";
+		MicroPrintCharWidth = 0;
+	}
+
+	void CustomConfiguration::InitializeInstanceFields()
+	{
+		PageSize = ptLetter;
+		PageOrientation = poPortrait;
+		PantographColor = pgBlack;
+		UseDefaultInclusionForPaperSize = true;
+		PantographConfiguration = "";
+		PantographFont = "";
+		PantographTextOffsetX = -1;
+		PantographTextOffsetY = -1;
+		PantographCellWidth = -1;
+		PantographCellHeight = -1;
+		PantographXPlus = -1;
+		PantographXMinus = -1;
+		PantographYPlus = -1;
+		PantographYMinus = -1;
+		InterferencePatternId = 1;
+		InterferenceHStep = -1;
+		InterferenceHStart = -1;
+		InterferenceHStop = -1;
+		InterferenceVStep = -1;
+		InterferenceVStart = -1;
+		InterferenceVStop = -1;
+		InterferenceFontSelection = "";
+		InterferenceString = "";
+		InterferenceFontFilename = "interf.sfp";
+		BgDarknessFactor = 1;
+		SignatureLineOffsetX = -1;
+		SignatureLineOffsetY = -1;
+		SignatureLineLength = -1;
+		SignatureLineString = "";
+		BorderString = "";
+		MicroPrintCharWidth = 0;
+		WarningBoxString = "";
+		WarningBoxSize = 0;
+		DensityPattern1 = 16;
+		DensityPattern2 = 62;
+		DensityPattern3 = 20;
+		DensityPattern4 = 74;
+		DensityPattern5 = 174;
+		DensityPattern6 = 30;
+		DensityPattern7 = 78;
+		DensityPattern8 = 28;
+		DensityPattern9 = 78;
+		TROYmarkOn = false;
+		UseDynamicTmMsg = true;
+		IncludeMp = true;
+		UseDynamicMp = false;
+		GeorgiaSealEnabled = false;
+		GeorgiaSealXLoc = "";
+		GeorgiaSealYLoc = "";
+		GeorgiaSealFile = "SealFont.sfp";
+		GeorgiaSealString = "ab";
+	}

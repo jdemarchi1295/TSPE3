@@ -1,0 +1,36 @@
+﻿Build started 1/5/2015 4:15:51 PM.
+     1>Project "C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\PantographCreatorCPP\PantographPclBuilder\PantographPclBuilder.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\local\boost_1_55_0\lib64-msvc-10.0" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D MARKUP_STL /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp BuildPantograph.cpp BuildPantographWrap.cpp Constants.cpp CustomConfiguration.cpp Markup.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(38): warning C4947: 'RequestMinimum' : marked as obsolete
+                 Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+         BuildPantograph.cpp
+     1>BuildPantograph.cpp(2521): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2525): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2530): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2535): warning C4309: '=' : truncation of constant value
+         BuildPantographWrap.cpp
+         Constants.cpp
+     1>Constants.cpp(26): warning C4309: 'initializing' : truncation of constant value
+         CustomConfiguration.cpp
+         Markup.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\local\boost_1_55_0\lib64-msvc-10.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D MARKUP_STL /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\jdemarchi.TROYSYS\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\PantographCreatorCPP\\Debug\PantographPclBuilder.lib" /NOLOGO Debug\AssemblyInfo.obj
+         Debug\BuildPantograph.obj
+         Debug\BuildPantographWrap.obj
+         Debug\Constants.obj
+         Debug\CustomConfiguration.obj
+         Debug\Markup.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+     1>AssemblyInfo.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+         PantographPclBuilder.vcxproj -> C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\PantographCreatorCPP\\Debug\PantographPclBuilder.lib
+     1>Done Building Project "C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\PantographCreatorCPP\PantographPclBuilder\PantographPclBuilder.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.73

@@ -1,0 +1,8 @@
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\bin\x64\Release\Troy.TSPE3.Licensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\bin\x64\Release\Troy.TSPE3.Licensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\bin\x64\Release\LogicNP.CryptoLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\bin\x64\Release\Troy.Licensing.Client.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\obj\x64\Release\Troy.TSPE3.Licensing.Strings.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\obj\x64\Release\Troy.TSPE3.Licensing.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\obj\x64\Release\Troy.TSPE3.Licensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyLicensing\obj\x64\Release\Troy.TSPE3.Licensing.pdb

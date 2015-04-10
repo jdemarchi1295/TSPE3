@@ -1,0 +1,5 @@
+		POT(poPortrait,0)
+		POT(poLandscape,1)
+		POT(poReversePortrait,2)
+		POT(poReverseLandscape,3)
+		POT(poNone,99)

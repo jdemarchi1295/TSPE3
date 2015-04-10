@@ -103,3 +103,23 @@ C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortM
 C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
 C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
 C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2013\Projects\TSPE3\TroyPortMonitorService\bin\Release\LogicNP.CryptoLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\PantographPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\PrinterLib.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\Troy.Licensing.Client.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\Troy.TSPE3.Licensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\LogicNP.CryptoLicensing.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\TROYmarkPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\PantographPclBuilder.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\Troy.TSPE3.Licensing.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\bin\Release\PrinterLib.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.TroyPortMonInstaller.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb

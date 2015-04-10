@@ -1,0 +1,38 @@
+﻿Build started 4/10/2015 9:14:43 AM.
+     1>Project "C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\PantographPclBuilder\PantographPclBuilder.vcxproj" on node 6 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Ox /D MARKUP_STL /D WIN32 /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp BuildPantograph.cpp BuildPantographWrap.cpp Constants.cpp CustomConfiguration.cpp Markup.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(38): warning C4947: 'RequestMinimum' : marked as obsolete
+                 Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+         BuildPantograph.cpp
+     1>BuildPantograph.cpp(212): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>BuildPantograph.cpp(1130): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>BuildPantograph.cpp(2030): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>BuildPantograph.cpp(2110): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>BuildPantograph.cpp(2521): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2525): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2530): warning C4309: '=' : truncation of constant value
+     1>BuildPantograph.cpp(2535): warning C4309: '=' : truncation of constant value
+         BuildPantographWrap.cpp
+         Constants.cpp
+     1>Constants.cpp(26): warning C4309: 'initializing' : truncation of constant value
+         CustomConfiguration.cpp
+         Markup.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /clr /nologo /W3 /WX- /Ox /D MARKUP_STL /D WIN32 /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /errorReport:prompt "C:\Users\jdemarchi.TROYSYS\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\Release\PantographPclBuilder.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\Release\PantographPclBuilder.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 /DLL Release\AssemblyInfo.obj
+         Release\BuildPantograph.obj
+         Release\BuildPantographWrap.obj
+         Release\Constants.obj
+         Release\CustomConfiguration.obj
+         Release\Markup.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         PantographPclBuilder.vcxproj -> C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\Release\PantographPclBuilder.dll
+     1>Done Building Project "C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSPE3\PantographPclBuilder\PantographPclBuilder.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.42

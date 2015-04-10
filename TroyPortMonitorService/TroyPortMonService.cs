@@ -41,7 +41,7 @@ namespace TroyPortMonitorService
 
         static TroyFontGlyphMapList tfgml;
 
-        static ELicenseStatus ls; // JLD new licensing 
+        //static ELicenseStatus ls; // JLD new licensing 
 
         static bool ReprintFiles = false;
         static bool InsertPjl = false;
